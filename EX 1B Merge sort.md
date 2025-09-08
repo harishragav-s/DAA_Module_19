@@ -39,9 +39,9 @@ To write a python program to sort the first half of the list using merge sort.
 
 Program to implement Merge Sort
 
-Developed by: PRAVEEN S
+Developed by: HARISH RAGAV S
 
-Register Number: 212222240078
+Register Number: 212222110013
 
 ```PY
 def merge(arr,left,middle,right):
