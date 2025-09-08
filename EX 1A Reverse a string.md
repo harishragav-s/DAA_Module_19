@@ -22,9 +22,9 @@ To write a program to create a recursive function to reverse a string.
 
 Program to implement Reverse a String
 
-Developed by: PRAVEEN S
+Developed by: HARISH RAGAV S
 
-Register Number: 212222240078
+Register Number: 212222110013
 ```PY
 def reverse_string(s):
    
