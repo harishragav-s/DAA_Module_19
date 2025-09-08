@@ -44,9 +44,9 @@ To write a python program to implement quick sort using tha last element as pivo
 
 Program to implement implement quick sort using the last element as pivot on the list of string values.
 
-Developed by: PRAVEEN S
+Developed by: HARISH RAGAV S
 
-Register Number: 212222240078
+Register Number: 212222110013
 
 ```PY
 def quickSort(alist, start, end):
